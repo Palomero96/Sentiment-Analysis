@@ -1,4 +1,4 @@
-# Sentiment-Analysis
+# Sentiment Analysis
 ## 📋 Project Overview
 Comprehensive sentiment analysis system that compares traditional machine learning models with advanced transformer-based approaches (BERT) for classifying Twitter data. This end-to-end project includes model development, evaluation, and production deployment with a interactive web interface.
 
